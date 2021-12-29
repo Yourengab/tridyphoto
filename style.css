@@ -382,7 +382,7 @@ textarea.feedback-form-text {
     z-index: 1;
     color: rebeccapurple;
     width: 100%;
-    transform: translateX(-100%);
+    transform: translateX(-120%);
   }
   nav ul.slide {
     width: 100%;
